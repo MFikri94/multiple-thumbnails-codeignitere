@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Upload Multiple Thumnail.</title>
+    <title>Multiple Thumbnails Codeigniter.</title>
     <link href="<?php echo base_url().'assets/css/bootstrap.css'?>" rel="stylesheet">
   </head>
   <body>

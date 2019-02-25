@@ -2,12 +2,11 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Upload Multiple Thumnail.</title>
+    <title>Multiple Thumbnails Codeigniter.</title>
     <link href="<?php echo base_url().'assets/css/bootstrap.css'?>" rel="stylesheet">
   </head>
   <body>
     <div class="container">
-      
       <div class="row">
           <form class="form-horizontal" action="<?php echo site_url('upload/do_upload');?>" method="post" enctype="multipart/form-data">
 
